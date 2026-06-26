@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.zip
+*.jpg
+*.png
+!research_docs/image.png
+datasets/
+hf_cv_space/
+.env
+auto_train_log.txt
+combined_test_result.jpg
+full_system_test.jpg
+zoomed_test_result.jpg
+bike_test_result.jpg

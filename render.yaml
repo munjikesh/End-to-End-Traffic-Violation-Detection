@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: traffic-violation-demo
+    env: docker
+    plan: free
+    autoDeploy: true
