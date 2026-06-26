@@ -4,9 +4,9 @@ This repository contains the final computer vision violation detection system fo
 
 ## 📂 Main Submission Folder
 
-All submission files, report document, source code, and local model weights are organized under the **[Group28](./Group28)** directory.
+All submission files, report document, source code, and local model weights are organized under the **[Group28](./Group23)** directory.
 
-Please refer to **[Group28/README.md](./Group28/README.md)** for detailed installation, dependencies setup, and usage instructions.
+Please refer to **[Group28/README.md](./Group23/README.md)** for detailed installation, dependencies setup, and usage instructions.
 
 ## 🎯 Quick Overview
 
