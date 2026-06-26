@@ -1,6 +1,6 @@
 # Traffic Rule Violation Detection — AID 728 Final Submission
 
-This repository contains the final computer vision violation detection system for **Group 28**.
+This repository contains the final computer vision violation detection system for **Group 23**.
 
 ## 📂 Main Submission Folder
 
