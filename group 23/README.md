@@ -1,6 +1,6 @@
-# Traffic Rule Violation Detection — AID 728 (Group 28)
+# End-to-End Traffic Violation Detection & OCR Pipeline — AID 728 (Group 23)
 
-This directory contains the final submission for **Group 28** for detecting two-wheeler traffic rule violations (helmet violations, triple riding) and recognizing license plates from street images.
+This directory contains the final submission for **Group 23** for detecting two-wheeler traffic rule violations (helmet violations, triple riding) and recognizing license plates from street images.
 
 We provide **two alternative OCR/violation detection pipelines** packaged cleanly in this submission folder. Neither requires internet access at runtime; all model files are stored locally in the `models/` directory.
 
